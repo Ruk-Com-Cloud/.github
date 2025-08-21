@@ -25,6 +25,7 @@
 ---
 
 ## 👋 About Us
+
 Ruk Com (รักคอม) is a Thailand‑based cloud & hosting company helping teams launch and scale modern workloads with **zero drama**—from highly available PostgreSQL clusters and Pgpool‑II to ultra‑low‑latency WebRTC streaming at national scale.
 
 We are builders at heart: automation first, observability by default, security always.
@@ -32,6 +33,7 @@ We are builders at heart: automation first, observability by default, security a
 ---
 
 ## 💼 What We Do
+
 - **Managed Cloud & Hosting (IaaS):** High‑performance compute, storage, and networks with **Cloudflare** optimization.
 - **Databases at Scale:** PostgreSQL 16/17, **Pgpool‑II** (HA/Failover, query cache, shmem), streaming replication, performance tuning.
 - **Web Acceleration & Security:** **Nginx** reverse proxy, WAF/CDN, DDoS mitigation, TLS automation.
@@ -42,6 +44,7 @@ We are builders at heart: automation first, observability by default, security a
 ---
 
 ## 🛠️ Open Source You’ll Find Here
+
 - **Jelastic JPS Templates** for turnkey clusters and streaming stacks.
 - **Ansible** roles for PostgreSQL/Pgpool‑II and LiveKit + coturn.
 - **IaC examples** and reference architectures.
@@ -52,6 +55,7 @@ We are builders at heart: automation first, observability by default, security a
 ---
 
 ## ✅ Service Guarantees
+
 - **HA by design**: Multi‑AZ options, automated failover/recovery.
 - **Automation first**: Idempotent builds, GitOps workflows, repeatable environments.
 - **Transparent SLOs**: Clear latency and uptime targets with dashboards.
